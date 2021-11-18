@@ -22,7 +22,7 @@ c: By 2050, animal-based protein consumption will reduce from 20% to 5%
 d: Obesity rates around the world will rise  
 
 # Statistics
-Aricles: 30  
+Articles: 30  
 Paragraphs: 162  
 Questions: 486  
 Question-Paragraph Level pairs: 1,458  
